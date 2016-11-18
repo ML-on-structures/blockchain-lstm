@@ -5,7 +5,7 @@ This repository contains the implementation of a module that uses multi level se
 
 The sequence learners are implemented with Long Short-Term Memory recurrent neural networks.
 
-See [https://sites.google.com/view/ml-on-structures](project page) for the overall project, papers, and data.
+See [project page](https://sites.google.com/view/ml-on-structures) for the overall project, papers, and data.
 
 ## Data
 
